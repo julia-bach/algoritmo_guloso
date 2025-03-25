@@ -1,0 +1,20 @@
+{
+    "Cidade A": {
+        "Cidade B": 5,
+        "Cidade C": 10
+    },
+    "Cidade B": {
+        "Cidade A": 5,
+        "Cidade D": 7,
+        "Cidade C": 2
+    },
+    "Cidade C": {
+        "Cidade A": 10,
+        "Cidade D": 3
+    },
+    "Cidade D": {
+        "Cidade B": 7,
+        "Cidade C": 3
+    }
+}
+  
